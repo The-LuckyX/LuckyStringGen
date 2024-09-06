@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://t.me/Luckyxupdate">
-    <img src="https://img.shields.io/badge/Lucky%20%F0%9D%95%8F%20OUpdate-Channel-blue?style=for-the-badge&logo=telegram" alt="𝐋𝚞𝚌𝚔𝚢🅧𝐔𝙿𝙳𝙰𝚃𝙴">
+    <img src="https://img.shields.io/badge/Lucky%20%F0%9D%95%8F%20Update-Channel-blue?style=for-the-badge&logo=telegram" alt="𝐋𝚞𝚌𝚔𝚢🅧𝐔𝙿𝙳𝙰𝚃𝙴">
   </a>
   <a href="https://t.me/LuckyxSupport">
     <img src="https://img.shields.io/badge/Lucky%20%F0%9D%95%8F%20Support-Group-blue?style=for-the-badge&logo=telegram" alt="𝐋𝚞𝚌𝚔𝚢🅧𝐒𝚄𝙿𝙿𝙾𝚁𝚃">
@@ -16,7 +16,6 @@
   
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=sᴛʀɪɴɢ+ɢᴇɴʀᴀᴛᴏʀ+ʙᴏᴛ"></b></h1>
- :
 
 # 𝐃𝐄𝐏𝐋𝐎𝐘𝐄𝐌𝐄𝐍𝐓🎉
 <details>
