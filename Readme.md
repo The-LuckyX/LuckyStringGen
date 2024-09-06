@@ -15,7 +15,7 @@
   </a
   
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=000000&width=450&lines=sᴛʀɪɴɢ+ɢᴇɴʀᴀᴛᴏʀ+ʙᴏᴛ"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=000BFG&width=250&lines=sᴛʀɪɴɢ+ɢᴇɴʀᴀᴛᴏʀ+ʙᴏᴛ"></b></h1>
 
 # 𝐃𝐄𝐏𝐋𝐎𝐘𝐄𝐌𝐄𝐍𝐓🎉
 <details>
