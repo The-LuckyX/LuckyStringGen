@@ -85,10 +85,10 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
-<a href="https://telegram.dog/LuckyxSupport"><img src="https://img.shields.io/badge/-Support Gʀᴏᴜᴘ%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://telegram.dog/Luckyxupdate"><img src="https://img.shields.io/badge/-Channel%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>  
+<a href="https://telegram.dog/LuckyxSupport"><img src="https://img.shields.io/badge/-Support Gʀᴏᴜᴘ%40%40-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/Luckyxupdate"><img src="https://img.shields.io/badge/-Channel%40%40-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>  
 <a href="https://telegram.dog/The_LuckyX"><img title="Lucky Raja" src="https://img.shields.io/static/v1?label=The_LuckyX&message=TG&color=blue-green"></a> 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%"> 
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100%"> 
 </p>
  
 -----
