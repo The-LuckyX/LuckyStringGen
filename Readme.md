@@ -27,7 +27,6 @@
 <h3 align="center">
     ─「 ⇝ ɪɴsᴛᴀʟʟ ʟᴏᴄᴀʟʟʏ ᴏʀ ᴏɴ ᴀ ᴠᴘs ⇜ 」─
 </h3>
-
 <details>
 <summary><h3>
 <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
@@ -52,7 +51,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamInflex/InflexMusicBot && cd InflexMusicBot
+   git clone https://github.com/The-LuckyX/LuckyStringGen && cd LuckyStringGen
    ```
 6. **Install Requirements**
    ```bash
@@ -76,7 +75,7 @@
     ```
 11. **Run The Bot**
     ```bash
-    bash start
+    bash start & python3 main.py
     ```
 
 ---
