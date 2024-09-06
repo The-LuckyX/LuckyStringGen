@@ -26,7 +26,6 @@
 
 <h3 align="center">
     ─「 ⇝ ɪɴsᴛᴀʟʟ ʟᴏᴄᴀʟʟʏ ᴏʀ ᴏɴ ᴀ ᴠᴘs ⇜ 」─
-</h3>
 
 <details>
 <summary><h3>
