@@ -32,47 +32,53 @@
 <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
     
-`sudo apt update && sudo apt install git curl python3-pip ffmpeg -y`
+1. **Upgrade & Update:**
+   ```bash
+   sudo apt-get update && sudo apt-get upgrade -y
+   ```
 
-`curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash`
+2. **Install Required Packages:**
+   ```bash
+   sudo apt-get install python3-pip ffmpeg -y
+   ```
+3. **Setting up PIP**
+   ```bash
+   sudo pip3 install -U pip
+   ```
+4. **Installing Node**
+   ```bash
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
+   ```
+5. **Clone the Repository**
+   ```bash
+   git clone https://github.com/TeamInflex/InflexMusicBot && cd InflexMusicBot
+   ```
+6. **Install Requirements**
+   ```bash
+   pip3 install -U -r requirements.txt
+   ```
+7. **Create .env  with sample.env**
+   ```bash
+   cp sample.env .env
+   ```
+   - Edit .env with your vars
+8. **Editing Vars:**
+   ```bash
+   vi .env
+   ```
+   - Press `I` Button On Keyboard To Start Editing.
+   - Edit .env With Your Values.
+   - Press `Ctrl + C`  Once You Are Done With Editing Vars And Type `:wq` To Save .env Or `:qa` To Exit Editing.
+10. **Installing tmux**
+    ```bash
+    sudo apt install tmux -y && tmux
+    ```
+11. **Run The Bot**
+    ```bash
+    bash start
+    ```
 
-`source ~/.bashrc`
-
-`nvm install node`
-
-`sudo apt-get update && sudo apt-get upgrade -y`
-
-`sudo apt-get install python3-pip ffmpeg -y`
-
-`sudo apt-get install python3-pip -y`
-
-`sudo pip3 install -U pip`
-
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
-
-`git clone https://github.com/The-LuckyX/LuckyStringGen`
-
-`cd STRING-GENRATOR`
-
-`pip3 install -U -r requirements.txt`
-
-`sudo apt install tmux && tmux`
-
-`apt install nano`
-
-`sudo bash setup`
-
-`(fill your all variable)`
-
-
-` python3 main.py`
-
-
-`Unclone repo `
-
-`rm -rf STRING-GENRATOR`
-
-`tmux kill-session -t 0`
+---
 
 </details>
 
